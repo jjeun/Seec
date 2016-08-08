@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SEEC</string>
+
+    <string name="home_section">Home</string>
+    <string name="music_section">Music</string>
+    <string name="arts_section">Arts</string>
+    <string name="theatre_section">Theatre</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
